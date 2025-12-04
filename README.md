@@ -17,10 +17,10 @@
 This project takes a dataset of books, users, and ratings, and recommends the **most relevant books** to a user using **collaborative filtering** techniques.  
 A full **Streamlit web app** is included for interactive use.
 
-🎥 **Watch the demo video:**  
+🎥 **Watch the demo video: Click the Thunbnail Below**  
 [![Watch the demo](https://img.youtube.com/vi/WmRwXHij4bI/0.jpg)](https://youtu.be/WmRwXHij4bI)
 
-CLick the above Thumbnail to watch the demo
+
 
 
 ---
