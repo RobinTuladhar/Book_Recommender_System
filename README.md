@@ -18,8 +18,9 @@ This project takes a dataset of books, users, and ratings, and recommends the **
 A full **Streamlit web app** is included for interactive use.
 
 🎥 **Watch the demo video:**  
-[![Watch the demo](https://img.youtube.com/vi/[YOUR_VIDEO_ID](https://youtu.be/WmRwXHij4bI)/0.jpg)](https://youtu.be/[YOUR_VIDEO_ID](https://youtu.be/WmRwXHij4bI))
+[![Watch the demo](https://img.youtube.com/vi/WmRwXHij4bI/0.jpg)](https://youtu.be/WmRwXHij4bI)
 
+CLick the above Thumbnail to watch the demo
 
 
 ---
